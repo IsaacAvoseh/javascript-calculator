@@ -8,7 +8,14 @@ main {
     font-family: Lato;
 }
 
+h1 {
+    text-align: center;
+    margin: auto;
+}
+
 div {
+    margin: auto;
+    margin-top: 10px;
     max-width: 500px;
     background-color: whitesmoke;
     border-color: teal;
@@ -29,6 +36,8 @@ div {
 }
 
 footer {
+    margin: auto;
+    text-align: center;
     color: white;
     font-family: Lato;
     font-size: 14px;
