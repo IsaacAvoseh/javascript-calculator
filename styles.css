@@ -42,3 +42,10 @@ footer {
     font-family: Lato;
     font-size: 14px;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+        width: 100vh;
+        margin: auto;
+    }
+}
